@@ -2,4 +2,4 @@ category-theory-for-the-sciences.pdf
 *.aux
 *.dvi
 *.log
-*.sync
+*.synctex.gz
